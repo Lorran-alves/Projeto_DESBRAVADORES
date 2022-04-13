@@ -1,0 +1,107 @@
+body{
+    background-color:  #606060 ;
+    width: 900px;
+    font-family: sans-serif;
+ 
+}
+.imagem-1{
+
+    width: 900px;
+    margin-left: 220px;
+}
+#menu{
+
+   
+    width: 880px;
+    margin-left: 220px;
+    background-color: #cecece;
+    padding: 10px;
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-weight: bold;
+}
+
+
+a:hover{
+    text-decoration: underline;
+    background-color: #888888;
+    padding: 10px;
+}
+    
+#conteudo{
+
+    background-color: #cecece;
+    margin-left: 220px;
+    width: 890px;
+    margin-top: 5px;
+    padding: 5px;
+        
+} 
+.Roda-pe{
+   
+    width: 80px;
+    background-color: #cecece;
+    margin-left:220px ;
+   padding: 5px;
+   text-align: center;
+   border-top: 1px solid black;
+    
+}
+h1.H1{
+
+    text-align: center;
+    width: 890px;
+    margin-left: 220px;
+    background-color: #cecece;
+    padding:5px;
+    margin-bottom: 5px;
+    color: #606060;
+    margin-top: -5px;
+ 
+}
+h1.titulo2{
+
+    text-align: center;
+    color: #606060;
+    font-size: 25px;
+}
+h1.titulo3{
+
+    text-align: left;
+    color: #606060;
+    font-size: 25px;
+}
+.Lama{
+
+    width: 400px;
+    border: 5px solid #888888;
+}
+  
+.Borda{
+
+    border: 5px solid #888888;
+}
+.Video1{
+
+    width: 400px;
+    height: 300px;
+    border: 5px solid #888888;
+}
+.Lama1{
+
+    width: 400px;
+    border: 5px solid #888888;
+    border-top: 100px;
+}
+.RodaPE{
+
+
+}
+
+
+  
