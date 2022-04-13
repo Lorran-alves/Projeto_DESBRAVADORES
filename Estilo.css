@@ -27,6 +27,7 @@ a{
 }
 
 
+
 a:hover{
     text-decoration: underline;
     background-color: #888888;
@@ -41,16 +42,16 @@ a:hover{
     margin-top: 5px;
     padding: 5px;
         
-} 
-.Roda-pe{
-   
-    width: 80px;
+} #Final{
+
+width: 880px;
     background-color: #cecece;
-    margin-left:220px ;
-   padding: 5px;
+   margin-left:220px ;
+   padding: 10px;
    text-align: center;
    border-top: 1px solid black;
-    
+   
+
 }
 h1.H1{
 
@@ -98,10 +99,10 @@ h1.titulo3{
     border: 5px solid #888888;
     border-top: 100px;
 }
-.RodaPE{
+.margin-fim{
 
-
+    margin-top: 10px;
+    padding: 10px;
 }
-
 
   
